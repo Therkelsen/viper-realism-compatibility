@@ -1,0 +1,18 @@
+{
+    "66d0f031c6c6b22e2056a1f5": {
+        "ItemID": "66d0f031c6c6b22e2056a1f5",
+        "Name": "mask_joe_jordison",
+        "AllowADS": true,
+        "LoyaltyLevel": 2,
+        "ArmorClass": "NIJ II",
+        "CanSpall": false,
+        "SpallReduction": 1,
+        "ReloadSpeedMulti": 1,
+        "BlocksMouth": true,
+        "speedPenaltyPercent": 0,
+        "mousePenalty": 0,
+        "weaponErgonomicPenalty": 0,
+        "MaskToUse": "atomic",
+        "TemplateType": "gear"
+    }
+}
