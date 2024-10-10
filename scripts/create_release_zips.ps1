@@ -21,7 +21,11 @@ $innerDir = "user\mods\SPT-Realism\db\put_new_stuff_here\Viper"
 New-Item -ItemType Directory -Path "$baseDir\$innerDir" -Force
 
 # Define the list of files to move
-$filesToMove = @()
+$filesToMove = @(
+    'Viper\TTI_Pit_Viper.json',
+    'Viper\Viper_Helmet_MK3.json',
+    'Viper\Joey_Jordison_Mask.json'
+)
 
 # Move files to both directories
 foreach ($file in $filesToMove) {
