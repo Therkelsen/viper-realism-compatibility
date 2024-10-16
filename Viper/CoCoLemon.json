@@ -1,0 +1,274 @@
+{
+    "88fcec0fdf1abe3dbbe2dfc0": {
+        "ItemID": "88fcec0fdf1abe3dbbe2dfc0",
+        "Name": "ammo_65ga_ap",
+        "TemplateType": "ammo",
+        "Damage": 45,
+        "PenetrationPower": 64,
+        "BasePriceModifier": 1
+    },
+    "88fcebcbcaddb1aced83dfc0": {
+        "ItemID": "88fcebcbcaddb1aced83dfc0",
+        "Name": "ammo_65ga_flechette",
+        "TemplateType": "ammo",
+        "Damage": 7,
+        "PenetrationPower": 4,
+        "BasePriceModifier": 1
+    },
+    "88fceb3deabdbfb46fcfdfc0": {
+        "ItemID": "88fceb3deabdbfb46fcfdfc0",
+        "Name": "ammo_65ga_rip",
+        "TemplateType": "ammo",
+        "Damage": 182,
+        "PenetrationPower": 24,
+        "BasePriceModifier": 1
+    },
+    "88fceb2e46dcdf54ba8ddfc0": {
+        "ItemID": "88fceb2e46dcdf54ba8ddfc0",
+        "Name": "ammo_65ga_shrap",
+        "TemplateType": "ammo",
+        "Damage": 22,
+        "PenetrationPower": 22,
+        "BasePriceModifier": 1
+    },
+    "88fceb0daf39c9baae0cdfc0": {
+        "ItemID": "88fceb0daf39c9baae0cdfc0",
+        "Name": "ammo_9x18_exp",
+        "TemplateType": "ammo",
+        "Damage": 45,
+        "PenetrationPower": 43,
+        "BasePriceModifier": 1
+    },
+    "88fce581dcb4d27dc2dddfc0": {
+        "ItemID": "88fce581dcb4d27dc2dddfc0",
+        "Name": "ammo_9x18pm_sp",
+        "TemplateType": "ammo",
+        "Damage": 45,
+        "PenetrationPower": 23,
+        "BasePriceModifier": 1
+    },
+    "88fcdeeb08aecf9afd03dfc0": {
+        "ItemID": "88fcdeeb08aecf9afd03dfc0",
+        "Name": "ammo_12ga_he",
+        "TemplateType": "ammo",
+        "Damage": 125,
+        "PenetrationPower": 63,
+        "BasePriceModifier": 1
+    },
+    "88fcdff71d6bdd2bfd03dfc0": {
+        "ItemID": "88fcdff71d6bdd2bfd03dfc0",
+        "Name": "ammo_12ga_sa",
+        "TemplateType": "ammo",
+        "Damage": 56,
+        "PenetrationPower": 41,
+        "BasePriceModifier": 1
+    },
+    "88f79bda6ecccfcf0cdbdfc0": {
+        "ItemID": "88f79bda6ecccfcf0cdbdfc0",
+        "Name": "ammo_12ga_spp",
+        "TemplateType": "ammo",
+        "Damage": 125,
+        "PenetrationPower": 63,
+        "BasePriceModifier": 1
+    },
+    "88fcdb1efeedb086357bdfc0": {
+        "ItemID": "88fcdb1efeedb086357bdfc0",
+        "Name": "ammo_20g_star",
+        "TemplateType": "ammo",
+        "Damage": 135,
+        "PenetrationPower": 56,
+        "BasePriceModifier": 1
+    },
+    "88fcda00ad89f35cad4fdfc0": {
+        "ItemID": "88fcda00ad89f35cad4fdfc0",
+        "Name": "ammo_20g_supper",
+        "TemplateType": "ammo",
+        "Damage": 20,
+        "PenetrationPower": 35,
+        "BasePriceModifier": 1
+    },
+    "88f79fed3fd25b8e4f65dfc0": {
+        "ItemID": "88f79fed3fd25b8e4f65dfc0",
+        "Name": "ammo_40mm_cluster_bomb",
+        "TemplateType": "ammo",
+        "Damage": 169,
+        "PenetrationPower": 1,
+        "BasePriceModifier": 1
+    },
+    "88f7b56d4c32fcb6a14bdfc0": {
+        "ItemID": "88f7b56d4c32fcb6a14bdfc0",
+        "Name": "ammo_40mm_cluster_bomb_shrapnel",
+        "TemplateType": "ammo",
+        "Damage": 149,
+        "PenetrationPower": 1,
+        "BasePriceModifier": 1
+    },
+    "88f7b84fde9fcb83dfd4dfc0": {
+        "ItemID": "88f7b84fde9fcb83dfd4dfc0",
+        "Name": "ammo_40mm_kaba",
+        "TemplateType": "ammo",
+        "Damage": 160,
+        "PenetrationPower": 1,
+        "BasePriceModifier": 1
+    },
+    "88f7be9d26fff468dd5ddfc0": {
+        "ItemID": "88f7be9d26fff468dd5ddfc0",
+        "Name": "ammo_40mm_kaban",
+        "TemplateType": "ammo",
+        "Damage": 500,
+        "PenetrationPower": 1,
+        "BasePriceModifier": 1
+    },
+    "88f7c2f0958f55be9d86dfc0": {
+        "ItemID": "88f7c2f0958f55be9d86dfc0",
+        "Name": "ammo_40mm_kaboom",
+        "TemplateType": "ammo",
+        "Damage": 199,
+        "PenetrationPower": 1,
+        "BasePriceModifier": 1
+    },
+    "88fbf8aaac0a256c3ff8dfc0": {
+        "ItemID": "88fbf8aaac0a256c3ff8dfc0",
+        "Name": "ammo_50_ap",
+        "TemplateType": "ammo",
+        "Damage": 300,
+        "PenetrationPower": 130,
+        "BasePriceModifier": 1
+    },
+    "88fbf8a54e0a3a26efbddfc0": {
+        "ItemID": "88fbf8a54e0a3a26efbddfc0",
+        "Name": "ammo_50_apfsds",
+        "TemplateType": "ammo",
+        "Damage": 350,
+        "PenetrationPower": 143,
+        "BasePriceModifier": 1
+    },
+    "88fbf850bc0144bba143dfc0": {
+        "ItemID": "88fbf850bc0144bba143dfc0",
+        "Name": "ammo_50_he",
+        "TemplateType": "ammo",
+        "Damage": 550,
+        "PenetrationPower": 1,
+        "BasePriceModifier": 1
+    },
+    "88fbf93be3f741f9d6eedfc0": {
+        "ItemID": "88fbf93be3f741f9d6eedfc0",
+        "Name": "ammo_50_fmj",
+        "TemplateType": "ammo",
+        "Damage": 450,
+        "PenetrationPower": 160,
+        "BasePriceModifier": 1
+    },
+    "88fcd710feeb011f0afadfc0": {
+        "ItemID": "88fcd710feeb011f0afadfc0",
+        "Name": "ammo_50_beo_fmj",
+        "TemplateType": "ammo",
+        "Damage": 180,
+        "PenetrationPower": 55,
+        "BasePriceModifier": 1
+    },
+    "88fcd3939a0beb2ecd1bdfc0": {
+        "ItemID": "88fcd3939a0beb2ecd1bdfc0",
+        "Name": "ammo_127x108_ap",
+        "TemplateType": "ammo",
+        "Damage": 300,
+        "PenetrationPower": 130,
+        "BasePriceModifier": 1
+    },
+    "88f7ceefd1defbbada3adfc0": {
+        "ItemID": "88f7ceefd1defbbada3adfc0",
+        "Name": "ammo_308_buckshot",
+        "TemplateType": "ammo",
+        "Damage": 24,
+        "PenetrationPower": 24,
+        "BasePriceModifier": 1
+    },
+    "88f7d2efbcfccf1bf7addfc0": {
+        "ItemID": "88f7d2efbcfccf1bf7addfc0",
+        "Name": "ammo_308_sparkle",
+        "TemplateType": "ammo",
+        "Damage": 122,
+        "PenetrationPower": 61,
+        "BasePriceModifier": 1
+    },
+    "88f7d3d55debf08149ccdfc0": {
+        "ItemID": "88f7d3d55debf08149ccdfc0",
+        "Name": "ammo_500_ap",
+        "TemplateType": "ammo",
+        "Damage": 152,
+        "PenetrationPower": 52,
+        "BasePriceModifier": 1
+    },
+    "88f7d4e38ff2d9b31c30dfc0": {
+        "ItemID": "88f7d4e38ff2d9b31c30dfc0",
+        "Name": "ammo_500_fmj",
+        "TemplateType": "ammo",
+        "Damage": 185,
+        "PenetrationPower": 37,
+        "BasePriceModifier": 1
+    },
+    "88f7dfa029a9eac4bcacdfc0": {
+        "ItemID": "88f7dfa029a9eac4bcacdfc0",
+        "Name": "ammo_500_rip",
+        "TemplateType": "ammo",
+        "Damage": 265,
+        "PenetrationPower": 28,
+        "BasePriceModifier": 1
+    },
+    "88f7e11eac871059cfcfdfc0": {
+        "ItemID": "88f7e11eac871059cfcfdfc0",
+        "Name": "ammo_battle_flare_gun_buckshot",
+        "TemplateType": "ammo",
+        "Damage": 87,
+        "PenetrationPower": 11,
+        "BasePriceModifier": 1
+    },
+    "88f7e2be9d3b0bc41a00dfc0": {
+        "ItemID": "88f7e2be9d3b0bc41a00dfc0",
+        "Name": "ammo_battle_flare_gun_he",
+        "TemplateType": "ammo",
+        "Damage": 100,
+        "PenetrationPower": 1,
+        "BasePriceModifier": 1
+    },
+    "88f7e5de68147e6cbf3cdfc0": {
+        "ItemID": "88f7e5de68147e6cbf3cdfc0",
+        "Name": "ammo_battle_flare_gun_slug",
+        "TemplateType": "ammo",
+        "Damage": 256,
+        "PenetrationPower": 50,
+        "BasePriceModifier": 1
+    },
+    "88f7e6bc16c622be4308dfc0": {
+        "ItemID": "88f7e6bc16c622be4308dfc0",
+        "Name": "ammo_g28_space_rider",
+        "TemplateType": "ammo",
+        "Damage": 90,
+        "PenetrationPower": 1,
+        "BasePriceModifier": 1
+    },
+    "88f7ea9e5db63ac6afc4dfc0": {
+        "ItemID": "88f7ea9e5db63ac6afc4dfc0",
+        "Name": "ammo_ps12_exp",
+        "TemplateType": "ammo",
+        "Damage": 182,
+        "PenetrationPower": 1,
+        "BasePriceModifier": 1
+    },
+    "88f7ecab75bfc9ca2ec6dfc0": {
+        "ItemID": "88f7ecab75bfc9ca2ec6dfc0",
+        "Name": "ammo_rsh12s_buckshot",
+        "TemplateType": "ammo",
+        "Damage": 37,
+        "PenetrationPower": 43,
+        "BasePriceModifier": 1
+    },
+    "88f7eef75ce422b5367cdfc0": {
+        "ItemID": "88f7eef75ce422b5367cdfc0",
+        "Name": "ammo_scarl_neko",
+        "TemplateType": "ammo",
+        "Damage": 52,
+        "PenetrationPower": 53,
+        "BasePriceModifier": 1
+    }
+}
