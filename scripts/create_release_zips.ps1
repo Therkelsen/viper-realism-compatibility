@@ -22,8 +22,20 @@ New-Item -ItemType Directory -Path "$baseDir\$innerDir" -Force
 
 # Define the list of files to move
 $filesToMove = @(
-    'Viper\TTI_Pit_Viper.json',
-    'Viper\Joey_Jordison_Mask.json'
+    'Viper\AK.json',
+    'Viper\AR-15.json',
+    'Viper\AWM.json',
+    'Viper\CoCoLemon_Ammo.json',
+    'Viper\CoCoLemon_Attachments.json',
+    'Viper\CoCoLemon_Gear.json',
+    'Viper\CoCoLemon_Weapons.json',
+    'Viper\HK416.json',
+    'Viper\Joey_Jordison_Mask.json',
+    'Viper\MMFAC_Ammo.json',
+    'Viper\MMFAC_Attachments.json',
+    'Viper\MP5K.json',
+    'Viper\SVD.json',
+    'Viper\TTI_Pit_Viper.json'
 )
 
 # Move files to both directories

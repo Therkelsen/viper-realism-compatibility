@@ -1,0 +1,410 @@
+{
+    "a88cCABc762c51c9a9cccFAC": {
+        "ItemID": "a88cCABc762c51c9a9cccFAC",
+        "Name": "ammo_762x51_mfac_poly_ap",
+        "TemplateType": "ammo",
+        "Damage": 82,
+        "PenetrationPower": 130,
+        "BasePriceModifier": 1
+    },
+    "a88cCABc762c51c993cccFAC": {
+        "ItemID": "a88cCABc762c51c993cccFAC",
+        "Name": "ammo_762x51_mfac_poly_m993",
+        "TemplateType": "ammo",
+        "Damage": 110,
+        "PenetrationPower": 94,
+        "BasePriceModifier": 1
+    },
+    "a88cCABc762c51c80ccccFAC": {
+        "ItemID": "a88cCABc762c51c80ccccFAC",
+        "Name": "ammo_762x51_mfac_poly_m80",
+        "TemplateType": "ammo",
+        "Damage": 122,
+        "PenetrationPower": 61,
+        "BasePriceModifier": 1
+    },
+    "a88cCABc12acFA9ccccccFAC": {
+        "ItemID": "a88cCABc12acFA9ccccccFAC",
+        "Name": "ammo_12_70_mfac_t_fx_frag",
+        "TemplateType": "ammo",
+        "Damage": 120,
+        "PenetrationPower": 71,
+        "BasePriceModifier": 1
+    },
+    "a88cCABc20acFA9ccccccFAC": {
+        "ItemID": "a88cCABc20acFA9ccccccFAC",
+        "Name": "ammo_20_70_mfac_t_fx_frag",
+        "TemplateType": "ammo",
+        "Damage": 120,
+        "PenetrationPower": 53,
+        "BasePriceModifier": 1
+    },
+    "a88cCABc23c75cFA9ccccFAC": {
+        "ItemID": "a88cCABc23c75cFA9ccccFAC",
+        "Name": "ammo_23_75_mfac_t_fx_frag",
+        "TemplateType": "ammo",
+        "Damage": 170,
+        "PenetrationPower": 53,
+        "BasePriceModifier": 1
+    },
+    "a88cCABc9c19AcFA9ccccFAC": {
+        "ItemID": "a88cCABc9c19AcFA9ccccFAC",
+        "Name": "ammo_9_19_mfac_t_fx_frag",
+        "TemplateType": "ammo",
+        "Damage": 50,
+        "PenetrationPower": 17,
+        "BasePriceModifier": 1
+    },
+    "a88cCABc9c19CcFA9ccccFAC": {
+        "ItemID": "a88cCABc9c19CcFA9ccccFAC",
+        "Name": "ammo_9_18_mfac_t_fx_frag",
+        "TemplateType": "ammo",
+        "Damage": 50,
+        "PenetrationPower": 17,
+        "BasePriceModifier": 1
+    },
+    "a88cCABc762c25cFA9cccFAC": {
+        "ItemID": "a88cCABc762c25cFA9cccFAC",
+        "Name": "ammo_762_25_mfac_t_fx_frag",
+        "TemplateType": "ammo",
+        "Damage": 40,
+        "PenetrationPower": 23,
+        "BasePriceModifier": 1
+    },
+    "a88cCABc9c33cFA9cccccFAC": {
+        "ItemID": "a88cCABc9c33cFA9cccccFAC",
+        "Name": "ammo_357_mfac_t_fx_frag",
+        "TemplateType": "ammo",
+        "Damage": 55,
+        "PenetrationPower": 50,
+        "BasePriceModifier": 1
+    },
+    "a88cCABc9c21cFA9cccccFAC": {
+        "ItemID": "a88cCABc9c21cFA9cccccFAC",
+        "Name": "ammo_9_21_mfac_t_fx_frag",
+        "TemplateType": "ammo",
+        "Damage": 60,
+        "PenetrationPower": 23,
+        "BasePriceModifier": 1
+    },
+    "a88cCABc1143c23cFA9ccFAC": {
+        "ItemID": "a88cCABc1143c23cFA9ccFAC",
+        "Name": "ammo_45_acp_mfac_t_fx_frag",
+        "TemplateType": "ammo",
+        "Damage": 60,
+        "PenetrationPower": 28,
+        "BasePriceModifier": 1
+    },
+    "a88cCABc46c30cFA9ccccFAC": {
+        "ItemID": "a88cCABc46c30cFA9ccccFAC",
+        "Name": "ammo_46_30_mfac_t_fx_frag",
+        "TemplateType": "ammo",
+        "Damage": 37,
+        "PenetrationPower": 44,
+        "BasePriceModifier": 1
+    },
+    "a88cCABc57c28cFA9ccccFAC": {
+        "ItemID": "a88cCABc57c28cFA9ccccFAC",
+        "Name": "ammo_57_28_mfac_t_fx_frag",
+        "TemplateType": "ammo",
+        "Damage": 57,
+        "PenetrationPower": 26,
+        "BasePriceModifier": 1
+    },
+    "a88cCABc556c45cFA9cccFAC": {
+        "ItemID": "a88cCABc556c45cFA9cccFAC",
+        "Name": "ammo_556_45_mfac_t_fx_frag",
+        "TemplateType": "ammo",
+        "Damage": 47,
+        "PenetrationPower": 44,
+        "BasePriceModifier": 1
+    },
+    "a88cCABc762c35cFA9cccFAC": {
+        "ItemID": "a88cCABc762c35cFA9cccFAC",
+        "Name": "ammo_300_mfac_t_fx_frag",
+        "TemplateType": "ammo",
+        "Damage": 52,
+        "PenetrationPower": 42,
+        "BasePriceModifier": 1
+    },
+    "a88cCABc762c51cFA9cccFAC": {
+        "ItemID": "a88cCABc762c51cFA9cccFAC",
+        "Name": "ammo_762_51_mfac_t_fx_frag",
+        "TemplateType": "ammo",
+        "Damage": 60,
+        "PenetrationPower": 14,
+        "BasePriceModifier": 1
+    },
+    "a88cCABc86c70cFA9ccccFAC": {
+        "ItemID": "a88cCABc86c70cFA9ccccFAC",
+        "Name": "ammo_338_lm_mfac_t_fx_frag",
+        "TemplateType": "ammo",
+        "Damage": 100,
+        "PenetrationPower": 75,
+        "BasePriceModifier": 1
+    },
+    "a88cCABc545c39cFA9cccFAC": {
+        "ItemID": "a88cCABc545c39cFA9cccFAC",
+        "Name": "ammo_545_39_mfac_t_fx_frag",
+        "TemplateType": "ammo",
+        "Damage": 35,
+        "PenetrationPower": 35,
+        "BasePriceModifier": 1
+    },
+    "a88cCABc762c39cFA9cccFAC": {
+        "ItemID": "a88cCABc762c39cFA9cccFAC",
+        "Name": "ammo_762_39_mfac_t_fx_frag",
+        "TemplateType": "ammo",
+        "Damage": 40,
+        "PenetrationPower": 44,
+        "BasePriceModifier": 1
+    },
+    "a88cCABc762c54cFA9cccFAC": {
+        "ItemID": "a88cCABc762c54cFA9cccFAC",
+        "Name": "ammo_762_54r_mfac_t_fx_frag",
+        "TemplateType": "ammo",
+        "Damage": 69,
+        "PenetrationPower": 62,
+        "BasePriceModifier": 1
+    },
+    "a88cCABc9c39cFA9cccccFAC": {
+        "ItemID": "a88cCABc9c39cFA9cccccFAC",
+        "Name": "ammo_9_39_mfac_t_fx_frag",
+        "TemplateType": "ammo",
+        "Damage": 60,
+        "PenetrationPower": 39,
+        "BasePriceModifier": 1
+    },
+    "a88cCABc366cFA9ccccccFAC": {
+        "ItemID": "a88cCABc366cFA9ccccccFAC",
+        "Name": "ammo_366_tkm_mfac_t_fx_frag",
+        "TemplateType": "ammo",
+        "Damage": 95,
+        "PenetrationPower": 6,
+        "BasePriceModifier": 1
+    },
+    "a88cCABc127c55cFA9cccFAC": {
+        "ItemID": "a88cCABc127c55cFA9cccFAC",
+        "Name": "ammo_127_55_mfac_t_fx_frag",
+        "TemplateType": "ammo",
+        "Damage": 100,
+        "PenetrationPower": 39,
+        "BasePriceModifier": 1
+    },
+    "a88cCABc12acF1AccccccFAC": {
+        "ItemID": "a88cCABc12acF1AccccccFAC",
+        "Name": "ammo_12_70_mfac_flash",
+        "TemplateType": "ammo",
+        "Damage": 0,
+        "PenetrationPower": 0,
+        "BasePriceModifier": 1
+    },
+    "a88cCABc762c35cD150ccFAC": {
+        "ItemID": "a88cCABc762c35cD150ccFAC",
+        "Name": "ammo_300_mfac_us_bt",
+        "TemplateType": "ammo",
+        "Damage": 75,
+        "PenetrationPower": 73,
+        "BasePriceModifier": 1
+    },
+    "a88cCABc9c39cD999ccccFAC": {
+        "ItemID": "a88cCABc9c39cD999ccccFAC",
+        "Name": "ammo_9_39_mfac_ssapt",
+        "TemplateType": "ammo",
+        "Damage": 54,
+        "PenetrationPower": 92,
+        "BasePriceModifier": 1
+    },
+    "a88cCABc545c39cD150ccFAC": {
+        "ItemID": "a88cCABc545c39cD150ccFAC",
+        "Name": "ammo_545_39_mfac_us_bt",
+        "TemplateType": "ammo",
+        "Damage": 60,
+        "PenetrationPower": 83,
+        "BasePriceModifier": 1
+    },
+    "a88cCABc556c45cD150ccFAC": {
+        "ItemID": "a88cCABc556c45cD150ccFAC",
+        "Name": "ammo_556_45_mfac_us_bt",
+        "TemplateType": "ammo",
+        "Damage": 60,
+        "PenetrationPower": 87,
+        "BasePriceModifier": 1
+    },
+    "a88cCABc46c30cD150cccFAC": {
+        "ItemID": "a88cCABc46c30cD150cccFAC",
+        "Name": "ammo_46_30_mfac_us_bt",
+        "TemplateType": "ammo",
+        "Damage": 45,
+        "PenetrationPower": 60,
+        "BasePriceModifier": 1
+    },
+    "a88cCABc57c28cD150cccFAC": {
+        "ItemID": "a88cCABc57c28cD150cccFAC",
+        "Name": "ammo_57_28_mfac_us_bt",
+        "TemplateType": "ammo",
+        "Damage": 54,
+        "PenetrationPower": 58,
+        "BasePriceModifier": 1
+    },
+    "a88cCABc762c39cD150ccFAC": {
+        "ItemID": "a88cCABc762c39cD150ccFAC",
+        "Name": "ammo_762_39_mfac_us_bt",
+        "TemplateType": "ammo",
+        "Damage": 52,
+        "PenetrationPower": 82,
+        "BasePriceModifier": 1
+    },
+    "a88cCABc762c51cD150ccFAC": {
+        "ItemID": "a88cCABc762c51cD150ccFAC",
+        "Name": "ammo_762_51_mfac_us_bt",
+        "TemplateType": "ammo",
+        "Damage": 101,
+        "PenetrationPower": 90,
+        "BasePriceModifier": 1
+    },
+    "a88cCABc762c54cD150ccFAC": {
+        "ItemID": "a88cCABc762c54cD150ccFAC",
+        "Name": "ammo_762_54r_mfac_us_bt",
+        "TemplateType": "ammo",
+        "Damage": 101,
+        "PenetrationPower": 93,
+        "BasePriceModifier": 1
+    },
+    "a88cCABc86c70cD150cccFAC": {
+        "ItemID": "a88cCABc86c70cD150cccFAC",
+        "Name": "ammo_338_lm_mfac_us_bt",
+        "TemplateType": "ammo",
+        "Damage": 170,
+        "PenetrationPower": 115,
+        "BasePriceModifier": 1
+    },
+    "a88cCABc366cD150cccccFAC": {
+        "ItemID": "a88cCABc366cD150cccccFAC",
+        "Name": "ammo_366_tkm_mfac_us_bt",
+        "TemplateType": "ammo",
+        "Damage": 110,
+        "PenetrationPower": 77,
+        "BasePriceModifier": 1
+    },
+    "a88cCABc762c25cD150ccFAC": {
+        "ItemID": "a88cCABc762c25cD150ccFAC",
+        "Name": "ammo_762_25_tt_mfac_us_bt",
+        "TemplateType": "ammo",
+        "Damage": 60,
+        "PenetrationPower": 73,
+        "BasePriceModifier": 1
+    },
+    "a88cCABc9c19AcD150cccFAC": {
+        "ItemID": "a88cCABc9c19AcD150cccFAC",
+        "Name": "ammo_9_19_mfac_us_bt",
+        "TemplateType": "ammo",
+        "Damage": 60,
+        "PenetrationPower": 80,
+        "BasePriceModifier": 1
+    },
+    "a88cCABc9c21cD150ccccFAC": {
+        "ItemID": "a88cCABc9c21cD150ccccFAC",
+        "Name": "ammo_9_21_mfac_us_bt",
+        "TemplateType": "ammo",
+        "Damage": 70,
+        "PenetrationPower": 80,
+        "BasePriceModifier": 1
+    },
+    "a88cCABc12acD150cccccFAC": {
+        "ItemID": "a88cCABc12acD150cccccFAC",
+        "Name": "ammo_12_70_mfac_ust_apfs",
+        "TemplateType": "ammo",
+        "Damage": 120,
+        "PenetrationPower": 73,
+        "BasePriceModifier": 1
+    },
+    "a88cCABc12acD999cccccFAC": {
+        "ItemID": "a88cCABc12acD999cccccFAC",
+        "Name": "ammo_12_70_mfac_ssapt",
+        "TemplateType": "ammo",
+        "Damage": 90,
+        "PenetrationPower": 87,
+        "BasePriceModifier": 1
+    },
+    "a88cCABc127c55cD999ccFAC": {
+        "ItemID": "a88cCABc127c55cD999ccFAC",
+        "Name": "ammo_127_55_mfac_ssapt",
+        "TemplateType": "ammo",
+        "Damage": 84,
+        "PenetrationPower": 115,
+        "BasePriceModifier": 1
+    },
+    "a88cCABc9c19AcD999cccFAC": {
+        "ItemID": "a88cCABc9c19AcD999cccFAC",
+        "Name": "ammo_9_19_mfac_ssapt",
+        "TemplateType": "ammo",
+        "Damage": 42,
+        "PenetrationPower": 92,
+        "BasePriceModifier": 1
+    },
+    "a88cCABc762c35cD999ccFAC": {
+        "ItemID": "a88cCABc762c35cD999ccFAC",
+        "Name": "ammo_300_mfac_ssapt",
+        "TemplateType": "ammo",
+        "Damage": 60,
+        "PenetrationPower": 103,
+        "BasePriceModifier": 1
+    },
+    "a88cCABc762c39cD999ccFAC": {
+        "ItemID": "a88cCABc762c39cD999ccFAC",
+        "Name": "ammo_762_39_mfac_ssapt",
+        "TemplateType": "ammo",
+        "Damage": 44,
+        "PenetrationPower": 103,
+        "BasePriceModifier": 1
+    },
+    "a88cCABc556c45cDA99ccFAC": {
+        "ItemID": "a88cCABc556c45cDA99ccFAC",
+        "Name": "ammo_556_45_mfac_hvd",
+        "TemplateType": "ammo",
+        "Damage": 40,
+        "PenetrationPower": 120,
+        "BasePriceModifier": 1
+    },
+    "a88cCABc556c45cD2A2ccFAC": {
+        "ItemID": "a88cCABc556c45cD2A2ccFAC",
+        "Name": "ammo_556_45_mfac_duplex",
+        "TemplateType": "ammo",
+        "Damage": 45,
+        "PenetrationPower": 57,
+        "BasePriceModifier": 1
+    },
+    "a88cCABc9c19AcCACAcccFAC": {
+        "ItemID": "a88cCABc9c19AcCACAcccFAC",
+        "Name": "ammo_9_19_mfac_t_px_frag",
+        "TemplateType": "ammo",
+        "Damage": 1,
+        "PenetrationPower": 1,
+        "BasePriceModifier": 1
+    },
+    "a88cCABc40AAcBBAcccccFAC": {
+        "ItemID": "a88cCABc40AAcBBAcccccFAC",
+        "Name": "ammo_40_vog_25_mfac_rubber",
+        "TemplateType": "ammo",
+        "Damage": 2000,
+        "PenetrationPower": 1,
+        "BasePriceModifier": 1
+    },
+    "a88cCABc40AAcBACcccccFAC": {
+        "ItemID": "a88cCABc40AAcBACcccccFAC",
+        "Name": "ammo_40_vog_25_mfac_buckshot",
+        "TemplateType": "ammo",
+        "Damage": 140,
+        "PenetrationPower": 8,
+        "BasePriceModifier": 1
+    },
+    "a88cCABc40c46cBBAccccFAC": {
+        "ItemID": "a88cCABc40c46cBBAccccFAC",
+        "Name": "ammo_40_vog_25_mfac_rubber_impact",
+        "TemplateType": "ammo",
+        "Damage": 2000,
+        "PenetrationPower": 1,
+        "BasePriceModifier": 1
+    }
+}
