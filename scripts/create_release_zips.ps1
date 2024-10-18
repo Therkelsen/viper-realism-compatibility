@@ -31,6 +31,8 @@ $filesToMove = @(
     'Viper\CoCoLemon_Weapons.json',
     'Viper\HK416.json',
     'Viper\Joey_Jordison_Mask.json',
+    'Viper\MMFAC_Ammo.json',
+    'Viper\MMFAC_Attachments.json',
     'Viper\MP5K.json',
     'Viper\SVD.json',
     'Viper\TTI_Pit_Viper.json'
